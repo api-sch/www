@@ -1,5 +1,5 @@
 ## www.apisch.com
 
-ApiSch - API Schedler
+ApiSch - API Scheduler
 
 + https://github.com/api-sch/www/edit/main/README.md
